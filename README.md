@@ -24,3 +24,10 @@ MIDI (Musical Instrument Digital Interface) is a standardized protocol for commu
 
 ```bash
 pip install streamlit pretty_midi music21 google-generativeai
+```
+## Run
+
+```bash
+streamlit run app.py
+```
+
